@@ -1,3 +1,3 @@
-number=int(input("Enter a number:"))
-result=number*(number+1)/2
+num=int(input("Enter a number:"))
+result=num*(num+1)/2
 print(result)
