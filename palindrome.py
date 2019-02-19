@@ -1,4 +1,4 @@
-p=int(input("Enter number:"))
+p=int(input())
 temp=p
 rev=0
 while(p>0):
