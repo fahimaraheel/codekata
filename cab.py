@@ -8,7 +8,7 @@ if choice==1:
     print("The place you have choosed is tambaram")
 elif choice==2:
     kms=dist[1]
-    
+    print("The place you have choosed is adayar")
 elif choice==3:
     kms=dist[2]
     print("The place you have choosed is ambattur")
